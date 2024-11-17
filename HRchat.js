@@ -4,6 +4,7 @@ export default function Chat() {
   return (
     <View>
       <Text>HI</Text>
+    <Text>pulling</Text>
     </View>
   );
 }
